@@ -1,0 +1,13 @@
+
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Phyo Bank loans related local APIs "
+  contactDetails:
+    name: "Phyo Zaw OoL - Developer"
+    email: "phyozawoo@gmail.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
